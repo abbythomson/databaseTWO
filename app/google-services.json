@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "934524513357",
+    "firebase_url": "https://databaseex2.firebaseio.com",
+    "project_id": "databaseex2",
+    "storage_bucket": "databaseex2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934524513357:android:11f740d58a72a539",
+        "android_client_info": {
+          "package_name": "com.example.viola.databasetwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934524513357-6efcq167i5qinp1ns48qme96v53sepl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXsWBzEqn_mlZr7z7MvXF82Vkx3Ecfu_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
