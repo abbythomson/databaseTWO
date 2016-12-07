@@ -13,17 +13,17 @@
     tools:showIn="@layout/activity_main"
     android:orientation="vertical">
 
-    <listview android:id="@+id/listView"
+    <ListView android:id="@+id/listView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1">
-    </listview>
+    </ListView>
 
-<edittext android:id="@+id/todoText"
+<EditText android:id="@+id/todoText"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"></edittext>
-<button android:id="@+id/addButton"
+    android:layout_height="wrap_content"></EditText>
+<Button android:id="@+id/addButton"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="@string/add_item"></button>
+    android:text="@string/add_item"></Button>
 </LinearLayout>
